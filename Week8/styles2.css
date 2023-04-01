@@ -1,0 +1,10 @@
+#example {
+    color: gray;
+    background-color: blue;
+    border-style: dotted;
+    border-width: 3px;
+    border-color: red;
+    border-radius: 5px;
+    height: 20px;
+    text-align: center;
+}
